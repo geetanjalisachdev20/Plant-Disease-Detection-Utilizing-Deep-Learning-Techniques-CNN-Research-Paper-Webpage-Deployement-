@@ -1,4 +1,4 @@
-# -Development-and-Research-Paper-on-Plant-Disease-Detection-Utilizing-Deep-Learning-Techniques-CNN-
+# Development-and-Research-Paper-on-Plant-Disease-Detection-Utilizing-Deep-Learning-Techniques-CNN-
 
 **Project Summary: Plant Disease Detection: Utilizing Deep Learning Techniques (CNN)**
 
